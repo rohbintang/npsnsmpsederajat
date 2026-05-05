@@ -99,6 +99,8 @@ npsn-dataset/
 
 Dataset ini disediakan untuk keperluan pengembangan dan integrasi sistem.
 Pengguna bertanggung jawab atas validasi dan penggunaan data sesuai kebutuhan masing-masing.
+Tidak ada jaminan bahwa data selalu terbaru atau bebas dari kesalahan.  
+Silakan lakukan validasi ulang untuk kebutuhan produksi.
 
 ---
 
