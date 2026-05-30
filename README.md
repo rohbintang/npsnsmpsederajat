@@ -1,6 +1,6 @@
-# Dataset NPSN Nasional
+# Dataset NPSN SMP Sederajat
 
-Dataset ini berisi data satuan pendidikan berdasarkan **Nomor Pokok Sekolah Nasional (NPSN)** yang telah dikonversi ke format yang siap digunakan oleh developer.
+Dataset ini berisi data satuan pendidikan SMP sederajat berdasarkan **Nomor Pokok Sekolah Nasional (NPSN)** yang telah dikonversi ke format yang siap digunakan oleh developer.
 
 ---
 
@@ -87,7 +87,7 @@ Dataset ini cocok untuk:
 ## 📁 Struktur File
 
 ```
-npsn-dataset/
+npsnsmpsederajat/
 ├── npsn.csv
 ├── npsn.json
 └── README.md
